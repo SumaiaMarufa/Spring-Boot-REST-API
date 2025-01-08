@@ -1,0 +1,1 @@
+model for or model files are for representing the data format of the json body of API requests
